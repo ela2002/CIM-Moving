@@ -1,0 +1,70 @@
+export const calculatorTranslations = {
+  fr: {
+    heroTitle: "Calculateur de Volume",
+    heroSubtitle: "Estimez le volume de votre déménagement en sélectionnant vos meubles et objets",
+    totalVolume: "Volume Total",
+    continueButton: "Continuer vers le Devis",
+    estimationNote: "Ce calcul est une estimation. Le volume final peut varier selon l'emballage et les conditions réelles.",
+
+    categories: {
+      salon: "Salon",
+      chambre_bureau: "Chambre / Bureau",
+      cuisine: "Cuisine",
+      bureau: "Bureau",
+      jardin: "Jardin",
+      materiel_bricolage: "Matériel de Bricolage",
+      vehicule_et_accessoires: "Véhicule et Accessoires",
+      sports_et_loisir: "Sports et Loisirs",
+      vegetaux_et_animaux: "Végétaux et Animaux",
+      instruments: "Instruments",
+      salle_de_bain: "Salle de Bain",
+      electromenagers: "Électroménagers",
+    },
+  },
+
+  en: {
+    heroTitle: "Volume Calculator",
+    heroSubtitle: "Estimate your moving volume by selecting your furniture and items",
+    totalVolume: "Total Volume",
+    continueButton: "Continue to Quote",
+    estimationNote: "This is an estimate. The final volume may vary depending on packing and actual conditions.",
+
+    categories: {
+      salon: "Living Room",
+      chambre_bureau: "Bedroom / Office",
+      cuisine: "Kitchen",
+      bureau: "Office",
+      jardin: "Garden",
+      materiel_bricolage: "DIY Tools",
+      vehicule_et_accessoires: "Vehicle & Accessories",
+      sports_et_loisir: "Sports & Leisure",
+      vegetaux_et_animaux: "Plants & Pets",
+      instruments: "Instruments",
+      salle_de_bain: "Bathroom",
+      electromenagers: "Appliances",
+    },
+  },
+
+  ar: {
+    heroTitle: "حاسبة الحجم",
+    heroSubtitle: "قدّر حجم نقلك من خلال اختيار الأثاث والأغراض الخاصة بك",
+    totalVolume: "إجمالي الحجم",
+    continueButton: "المتابعة للحصول على عرض سعر",
+    estimationNote: "هذه مجرد تقديرات. قد يختلف الحجم النهائي حسب التغليف والظروف الفعلية.",
+
+    categories: {
+      salon: "غرفة الجلوس",
+      chambre_bureau: "غرفة النوم / المكتب",
+      cuisine: "المطبخ",
+      bureau: "المكتب",
+      jardin: "الحديقة",
+      materiel_bricolage: "معدات الصيانة",
+      vehicule_et_accessoires: "المركبات والإكسسوارات",
+      sports_et_loisir: "الرياضة والترفيه",
+      vegetaux_et_animaux: "النباتات والحيوانات",
+      instruments: "الآلات الموسيقية",
+      salle_de_bain: "الحمام",
+      electromenagers: "الأجهزة المنزلية",
+    },
+  },
+};
